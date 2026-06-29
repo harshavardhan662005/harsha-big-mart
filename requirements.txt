@@ -1,8 +1,10 @@
 fastapi
 uvicorn
 sqlalchemy
+pymysql
 mysql-connector-python
 streamlit
 requests
 passlib
 python-jose
+python-multipart
